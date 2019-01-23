@@ -1,9 +1,9 @@
 # AutoML-NAS-papers
 A list of papers on Auto Deep learning with Neural network architecture search
 
-## NAS for Computer Vision Task
+## Computer Vision Task
 
-**NASNet for classification and object detection**
+**classification and object detection**
 
 Learning Transferable Architectures for Scalable Image Recognition, CVPR'18
 https://arxiv.org/abs/1707.07012
@@ -13,13 +13,13 @@ https://arxiv.org/abs/1707.07012
 Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation, arxiv'19
 https://arxiv.org/abs/1901.02985
 
-**NAS for image super-resolution**
+**Image super-resolution**
 
 Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search, arxiv'19
 https://arxiv.org/abs/1901.01074
 
 
-## NAS for Backbone Design
+## Learn to learn, backbone design
 
 **NAS**
 
