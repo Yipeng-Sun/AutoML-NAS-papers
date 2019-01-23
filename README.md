@@ -3,7 +3,7 @@ A list of papers on Auto Deep learning with Neural network architecture search
 
 ## Computer Vision Task
 
-**classification and object detection**
+**Image classification and object detection**
 
 Learning Transferable Architectures for Scalable Image Recognition, CVPR'18
 https://arxiv.org/abs/1707.07012
@@ -19,7 +19,7 @@ Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search, arxiv
 https://arxiv.org/abs/1901.01074
 
 
-## Learn to learn, backbone design
+## Deep learning for backbone design
 
 **NAS**
 
