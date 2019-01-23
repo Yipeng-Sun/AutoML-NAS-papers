@@ -19,7 +19,7 @@ Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search, arxiv
 https://arxiv.org/abs/1901.01074
 
 
-## NAS for backbone design
+## NAS for Backbone Design
 
 **NAS**
 
