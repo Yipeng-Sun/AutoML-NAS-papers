@@ -31,7 +31,7 @@ https://arxiv.org/abs/1711.00436
 
 **PNASNet**
 
-*Progressive Neural Architecture Search, ECCV'18
+Progressive Neural Architecture Search, ECCV'18
 https://arxiv.org/abs/1712.00559
 
 **ENAS**
